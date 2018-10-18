@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityChangeTestNiujiaxing</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="main1">这是第一页！</string>
+    <string name="main2">前往第二页！</string>
+    <string name="Second1">这是第二页！</string>
+    <string name="Seconf2">返回第一页！</string>
+
+</resources>
